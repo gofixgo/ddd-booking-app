@@ -68,21 +68,6 @@ To fully test both client applications (and thus the entire microservices system
 
 ## Tech Stack/Patterns
 
-### .NET environment
-
-- .NET Core
-- Event-driven architecture
-- MassTransit
-- EventSourcing
-- Marten
-- Entity Framework Core
-- Dapper
-- Scrutor
-- Outbox pattern
-- Decorator pattern
-- Optimistic concurrency
-- Gateway
-
 ### NodeJS environment
 
 - NestJS
